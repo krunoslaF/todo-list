@@ -1,0 +1,13 @@
+com\krunoslav\util\Mappings.class
+com\krunoslav\service\DemoService.class
+com\krunoslav\util\AttributeNames.class
+com\krunoslav\config\WebConfig.class
+com\krunoslav\controllers\DemoController.class
+com\krunoslav\model\TodoData.class
+com\krunoslav\controllers\TodoItemController.class
+com\krunoslav\model\TodoItem.class
+com\krunoslav\service\TodoItemService.class
+com\krunoslav\util\ViewNames.class
+com\krunoslav\config\WebAppInitializer.class
+com\krunoslav\service\DemoServiceImpl.class
+com\krunoslav\service\TodoItemServiceImpl.class
